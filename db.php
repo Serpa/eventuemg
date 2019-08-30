@@ -1,9 +1,9 @@
 <?php
 
-$servidor = "localhost";
-$usuario = "root";
-$senha = "";
-$db = "avalia_app";
+$servidor = "sql10.freemysqlhosting.net";
+$usuario = "sql10303523";
+$senha = "2PYz6cddt4";
+$db = "sql10303523";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $db);
 
